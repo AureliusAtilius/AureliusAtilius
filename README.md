@@ -5,6 +5,10 @@
 - 📫 How to reach me:
       j.j.h.lindner@gmail.com
       https://www.linkedin.com/in/joshlindner/
+      
+      
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AureliusAtilius)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 AureliusAtilius/AureliusAtilius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
