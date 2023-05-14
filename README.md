@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AureliusAtilius (Josh)
-- 👀 I’m interested in automating workflows with Python.
-- 🌱 I’m currently learning Python, PowerShell, DNAC APIs, Meraki APIs, and Ansible.
-- 💞️ I’m looking to collaborate on projects that would stretch my abilities and help me grow my knowlege.
+- 👋 Hi, I’m Josh!
+- 👀 I’m interested in developing network applications and general IT automation using Python, Powershell, and Yang.
+- 🌱 I’m currently learning Yang, PowerShell, DNAC APIs, Meraki APIs, Ansible, Cyber Security, and Azure Cloud engineering.
+- 💞️ I’m looking to collaborate on projects that would help devolpe my abilities and experience.
 - 📫 How to reach me:
       j.j.h.lindner@gmail.com
       https://www.linkedin.com/in/joshlindner/
