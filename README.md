@@ -8,7 +8,7 @@
       
       
      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AureliusAtilius&show_icons=true&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AureliusAtilius&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
