@@ -7,7 +7,7 @@
       https://www.linkedin.com/in/joshlindner/
       
       
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AureliusAtilius&show_icons=true&theme=dark&hide=stars,contribs)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliusatilius)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
